@@ -2,11 +2,11 @@
 I have created a comprehensive project in Excel ,creating multiple dashboards and tables to analyze the data.
 ## Project Objective
 To analyze and visualize sales performance data to identify key trends, such as:
-.Monthly sales and profit distribution.
-.Sales contributions of individual salespersons.
-.Performance of cities and regions.
-.Category and product-wise sales trends.
-.Insights into profitability to support decision-making.
+.Monthly sales and profit distribution
+.Sales contributions of individual salespersons
+.Performance of cities and regions
+.Category and product-wise sales trends
+.Insights into profitability to support decision-making
 
 ## Dataset used
 <a href="https://github.com/Linu-1234/Sales-Performance-Analysis-and-Dashboard/blob/main/sales_chartsanddashboards.xlsx">Sales Data</a>
