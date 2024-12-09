@@ -15,11 +15,11 @@ To analyze and visualize sales performance data to identify key trends, such as:
 -Data Cleaning: Remove unnecessary columns (Unnamed columns) and handle missing or erroneous data
 -Data Transformation: Aggregate data by month, city, salesperson, category, etc., to facilitate analysis
 -Data Visualization: Create charts to represent:
-  -Monthly trends in sales and profits.
-  -Top-performing salespersons.
-  -Contribution by regions and cities.
-  -Most profitable products and categories.
--Dashboard Creation: Consolidate all insights into a single interactive dashboard for easier interpretation.
+  -Monthly trends in sales and profits
+  -Top-performing salespersons
+  -Contribution by regions and cities
+  -Most profitable products and categories
+-Dashboard Creation: Consolidate all insights into a single interactive dashboard for easier interpretation
 
 ## Dashboard Interaction
 ![sales_chartanddashboards](https://github.com/user-attachments/assets/03c6cfd6-ac3e-44b0-8f5d-19aa7255979d)
